@@ -1,0 +1,70 @@
+From 615b25442b0fe4ca14507ab23fceac1c7109b748 Mon Sep 17 00:00:00 2001
+From: root <root@localhost.localdomain>
+Date: Wed, 2 Jan 2019 11:08:01 +0800
+Subject: [PATCH] add some cities
+
+---
+ src/data/cities15000.txt | 12 ++++++------
+ 1 file changed, 6 insertions(+), 6 deletions(-)
+
+diff --git a/src/data/cities15000.txt b/src/data/cities15000.txt
+index 0df4d21..ba8764c 100644
+--- a/src/data/cities15000.txt
++++ b/src/data/cities15000.txt
+@@ -4197,7 +4197,7 @@
+ 146384	Limassol	Limassol	Gorad Limasol,Lemesos,Lemessus,Lemesós,Leymosun,Limasol,Limasolis,Limasolo,Limassol,Limisso,QLI,li ma suo er,li ma sxl,limasol,limasoli,lymaswl,lymswl,rimasoru,Λεμεσός,Горад Лімасол,Лимасол,Лімасол,לימסול,ليماسول,لیماسول,ลีมาซอล,ლიმასოლი,リマソール,利马索尔,리마솔	34.68406	33.03794	P	PPLA	CY		05				154000		27	Asia/Nicosia	2014-03-05
+ 146400	Larnaca	Larnaca	Chittim,Citium,Kition,Kitium,Kittim,Kozan,LCA,Lapithou,Larnaca,Larnaka,Làrnaca,Lárnaca,Lárnaka,Salina,Salines,la na ka,laleunaka,lar na ka,larnaka,larnka,lrnaka,lrnqh,rarunaka,Λάρνακα,Ларнака,Լարնակա,לרנקה,لارناکا,لارنكا,لرناکا,ลาร์นากา,ལར་ན་ཀ།,ლარნაკა,ラルナカ,拉纳卡,라르나카	34.92291	33.6233	P	PPLA	CY		03				72000		26	Asia/Nicosia	2014-07-08
+ 146412	Kyrenia	Kyrenia	Girne,Kerineja,Kerinia,Keryneia,Kerynia,Kerínia,Kerýneia,Kirenia,Kirenija,Kyrenia,Kyrinia pa Kypros,Kyrínia på Kypros,Kérynia,ghrnt,kai li ni ya,kayrnya,kilenia,kirenia,kyrynya,qyrnyh,Κερύνεια,Керинеја,Кирения,Кіренія,קירניה,غرنة,کایرنیا,کیرینیا,کیرینیہ,キレニア,凯里尼亚,키레니아	35.33634	33.31729	P	PPLA	CY		02				26701		42	Asia/Nicosia	2014-09-30
+-146617	Famagusta	Famagusta	Ammochostos,Ammochostus,Ammokhostos,Ammóchostos,Ammókhostos,Amokhostos,Famagosta,Famagouste,Famagusta,Gazi Magosa,Gazimagusa,Gazimağusa,Magosa,Magusa,Mağusa,fa ma gu si ta,famaghwsta,famagusuta,famagwsta,pamaguseuta,pmgwsth,Αμμόχωστος,Амохостос,Фамагуста,פמגוסטה,فاماغوستا,فاماگوستا,ファマグスタ,法马古斯塔,파마구스타	35.12054	33.93894	P	PPLA	CY		01				42526		21	Asia/Nicosia	2014-09-30
++146617	Famagusta	Famagusta	Ammochostos,Ammochostus,Ammokhostos,Ammóchostos,Ammókhostos,Amokhostos,Famagosta,Famagouste,Famagusta,Gazi Magosa,Gazimagusa,Gazimağusa,Magosa,Magusa,Mağusa,fa ma gu si ta,famaghwsta,famagusuta,famagwsta,pamaguseuta,pmgwsth,Αμμόχωστος,Амохостос,Фамагуста,פמגוסטה,فاماغوستا,فاماگوستا,ファマグスタ,法马古斯塔,파마구스타	35.12054	33.93894	P	PPLA	CY		01				42526		21	Asia/Famagusta	2014-09-30
+ 3061284	Dvůr Králové nad Labem	Dvur Kralove nad Labem	Dvur Kralove,Dvur-Kralove,Dvur-Kralove-nad-Labem,Dvŭr Králové,Gorad Dvur-Kraloveh-nad-Labehm,Koniginhof an der Elbe,Königinhof an der Elbe,la bei he pan huang gong zhen,Горад Двур-Краловэ-над-Лабэм,Двур-Кралове,Двур-Кралове-над-Лабем,拉貝河畔皇宮鎮	50.43172	15.81402	P	PPL	CZ		82				16150		300	Europe/Prague	2008-10-17
+ 3061344	Znojmo	Znojmo	Gorad Znojma,Znaim,Znain,Znaym,Znojmo,Znoyma,jeunoimo,zi nuo yi mo,znymw,zunoimo,Горад Знойма,Зноймо,Знојмо,زنیمو,ズノイモ,茲諾伊莫,즈노이모	48.8555	16.0488	P	PPL	CZ		78	0627			35280		294	Europe/Prague	2012-11-23
+ 3061370	Zlín	Zlin	Gottvoldov,Gottwald,Gottwaldov,Sillein,Z'lin,Zlin,Zlín,Ζλιν,Злин,Зьлін	49.22645	17.67065	P	PPLA	CZ		90	0724			78759		229	Europe/Prague	2014-07-21
+@@ -13337,7 +13337,7 @@
+ 609655	Karagandy	Karagandy	Karaganda,Karagandi,Karagandy,Qaragandi,Qaraghandy,Qarağandı,Караганда	49.83333	73.1658	P	PPLA	KZ	KZ	12	1537266			451800		575	Asia/Almaty	2014-07-21
+ 609924	Embi	Embi	Amba,Ehmba,Emba,Embi,Эмба	48.82981	58.15042	P	PPL	KZ		04				18760		233	Asia/Aqtobe	2014-06-27
+ 610445	Balyqshy	Balyqshy	Balykshi,Balyqshy,Belykshi,Балыкши	47.06667	51.86667	P	PPL	KZ		06				19260		-24	Asia/Oral	2014-06-26
+-610529	Atyrau	Atyrau	Aterau,Atirau,Atirav,Atiraw,Atorau,Aturau,Atyraou,Atyrau,Atyraw,Atyraū,Atîrau,Atõrau,Atırav,Atıraw,Chapayev,GUW,Gur'yev,Gurev,Guriev,Gur’yev,a te lao,atilau,atirau,aturau,atyraw,atyrayw  qzaqstan,yatraw,Атирау,Атърау,Атырау,אטיראו,آتیراؤ,آتیرائو، قزاقستان,أتيراو,ئاتراو,ਅਤੁਰੌ,ატირაუ,アティラウ,阿特勞,아티라우	47.11667	51.88333	P	PPLA	KZ		06				180000		-25	Asia/Oral	2012-01-17
++610529	Atyrau	Atyrau	Aterau,Atirau,Atirav,Atiraw,Atorau,Aturau,Atyraou,Atyrau,Atyraw,Atyraū,Atîrau,Atõrau,Atırav,Atıraw,Chapayev,GUW,Gur'yev,Gurev,Guriev,Gur’yev,a te lao,atilau,atirau,aturau,atyraw,atyrayw  qzaqstan,yatraw,Атирау,Атърау,Атырау,אטיראו,آتیراؤ,آتیرائو، قزاقستان,أتيراو,ئاتراو,ਅਤੁਰੌ,ატირაუ,アティラウ,阿特勞,아티라우	47.11667	51.88333	P	PPLA	KZ		06				180000		-25	Asia/Atyrau	2012-01-17
+ 610611	Aqtöbe	Aqtobe	Aktioube,Aktioubé,Aktiube,Aktiubinsk,Aktobe,Aktoebe,Aktubinsk,Aktyubinsk,Aktöbe,Aqtoebe,Aqtöbe,Ukhtiubinskii,agtoebe,Актобе,Ақтөбе,악퇴베	50.27969	57.20718	P	PPLA	KZ		04				262457		210	Asia/Aqtobe	2008-09-16
+ 610612	Aktau	Aktau	Aktaou,Aktau,Aktauskiy,Aktav,Aqtau,Aqtaw,Aqtaū,Shevchenko,a ke tao,agtau,akatw,aktau,akutau,aqata'u,aqtaw,aqtayw  qzaqstan,yaqtaw,Актау,Ақтау,آقتاؤ,آقتائو، قزاقستان,أكاتو,ئاقتاو,अक़तऊ,აქთაუ,アクタウ,阿克套,악타우	43.64806	51.17222	P	PPLA	KZ		09				147443		-9	Asia/Aqtau	2012-06-05
+ 610613	Aqsay	Aqsay	Aksaj,Aksay,Aqsay,Kazakhstan,Аксай	51.1681	52.99782	P	PPL	KZ		07				34799		65	Asia/Oral	2014-06-27
+@@ -13857,7 +13857,7 @@
+ 1295765	Sittwe	Sittwe	AKY,Ak'jab,Akjab,Akyab,Sittwe,Situeh,Sitve,Sitvė,akyab,shi dui,shittou~e,sitave,siteuwe,Акьяб,Ситуэ,اکیاب,सितवे,စစ်တွေမြို့,シットウェ,实兑,시트웨	20.14624	92.89835	P	PPLA	MM		01				177743		5	Asia/Rangoon	2014-04-06
+ 1296736	Shwebo	Shwebo	Shwebo	22.56925	95.69818	P	PPL	MM		10				88914		111	Asia/Rangoon	2012-12-06
+ 1298482	Sagaing	Sagaing	Sagajn,Sagang,Sitkaing,Сагайн	21.8787	95.97965	P	PPLA	MM		10				78739		75	Asia/Rangoon	2010-01-29
+-1298824	Yangon	Yangon	Dagon,Gian'nkon,Gorad Jangon,Jangon,Jangon khot,Jangona,Jangono,Jangun,Jangún,Ngiong-kong,Ngióng-kông,RGN,Rangon,Rangoon,Rangoun,Rangum,Rangun,Rangunas,Rangún,Rangūnas,Yangon,Yangôn,iyanguna,raguna,ranguna,rngwn,yang guang,yang-gon,yanghwn,yangkung,yangon,yanguna,yangwn,yankon,Ýangon,Γιανγκόν,Јангон,Горад Янгон,Рангун,Янгон,Янгон хот,Յանգոն,יאנגון,رنگون,يانغون,یانگون,यांगून,रङ्गुन,ইয়াংগুন,ਰੰਗੂਨ,யங்கோன்,యాంగోన్,യംഗോൺ,ย่างกุ้ง,ཡང་ཀོང་།,ရန်ကုန်မြို့,ያንጎን,យ៉ាំងហ្គូន,ヤンゴン,仰光,양곤	16.80528	96.15611	P	PPLA	MM		17				4477638		30	Asia/Rangoon	2014-04-26
++1298824	Yangon	Yangon	Dagon,Gian'nkon,Gorad Jangon,Jangon,Jangon khot,Jangona,Jangono,Jangun,Jangún,Ngiong-kong,Ngióng-kông,RGN,Rangon,Rangoon,Rangoun,Rangum,Rangun,Rangunas,Rangún,Rangūnas,Yangon,Yangôn,iyanguna,raguna,ranguna,rngwn,yang guang,yang-gon,yanghwn,yangkung,yangon,yanguna,yangwn,yankon,Ýangon,Γιανγκόν,Јангон,Горад Янгон,Рангун,Янгон,Янгон хот,Յանգոն,יאנגון,رنگون,يانغون,یانگون,यांगून,रङ्गुन,ইয়াংগুন,ਰੰਗੂਨ,யங்கோன்,యాంగోన్,യംഗോൺ,ย่างกุ้ง,ཡང་ཀོང་།,ရန်ကုန်မြို့,ያንጎን,យ៉ាំងហ្គូន,ヤンゴン,仰光,양곤	16.80528	96.15611	P	PPLA	MM		17				4477638		30	Asia/Yangon	2014-04-26
+ 1298911	Pyu	Pyu	Pyu	18.4813	96.43742	P	PPL	MM		16				40386		55	Asia/Rangoon	2012-12-06
+ 1298987	Pyinmana	Pyinmana	P'inmana,Pjinmana,Pyinmana,Pyinmank,Rangun,bin ma na,nai bi duo,pin ma na,pinmana,Пьинмана,Рангун,ปีนมานา,ピンマナ,奈比多,彬馬那,핀마나	19.7381	96.20742	P	PPL	MM		08				97409		101	Asia/Rangoon	2012-12-06
+ 1299154	Pyay	Pyay	PRU,Prome,Pyay,Pye,Pyei,Pyit,Проме	18.82464	95.22216	P	PPL	MM		16				135308		32	Asia/Rangoon	2012-12-06
+@@ -17864,7 +17864,7 @@
+ 1488933	Turinsk	Turinsk	Turinsk,Туринск	58.04575	63.69605	P	PPL	RU		71				18555		100	Asia/Yekaterinburg	2012-01-17
+ 1489246	Troitsk	Troitsk	Gorad Troick,Troic'k,Troick,Troitk,Troitsk,Troitsk i Tsjeljabinsk oblast,Troizk,Troițk,Troïtsk,te luo yi ci ke,trwytsk,trwytsk  awblast chlyabynsk,trwytsk  awblast tshylyabnsk,Горад Троіцк,Троицк,Троїцьк,تروئتسک,ترويتسك، أوبلاست تشيليابنسك,ترویتسک، اوبلاست چلیابینسک,特羅伊茨克	54.0979	61.5773	P	PPL	RU		13				82338		177	Asia/Yekaterinburg	2012-01-17
+ 1489394	Topki	Topki	Topki,Топки	55.2769	85.6163	P	PPL	RU		29				30572		281	Asia/Novokuznetsk	2012-01-17
+-1489425	Tomsk	Tomsk	Gorad Tomsk,TOF,Tom'sku,Tomck,Tomium,Toms'k,Tomsk,Tomska,Tomskaj,Tomskas,Tomszk,Tomçk,tomseukeu,tomska,tomusuku,tuo mu si ke,twmsk,twmsq,Τομσκ,Горад Томск,Томск,Томскай,Томськ,Томьскъ,טומסק,تومسك,تومسک,ٹومسک,तोम्स्क,トムスク,托木斯克,톰스크	56.49771	84.97437	P	PPLA	RU		75	1489419			485519		117	Asia/Novosibirsk	2013-02-08
++1489425	Tomsk	Tomsk	Gorad Tomsk,TOF,Tom'sku,Tomck,Tomium,Toms'k,Tomsk,Tomska,Tomskaj,Tomskas,Tomszk,Tomçk,tomseukeu,tomska,tomusuku,tuo mu si ke,twmsk,twmsq,Τομσκ,Горад Томск,Томск,Томскай,Томськ,Томьскъ,טומסק,تومسك,تومسک,ٹومسک,तोम्स्क,トムスク,托木斯克,톰스크	56.49771	84.97437	P	PPLA	RU		75	1489419			485519		117	Asia/Tomsk	2013-02-08
+ 1489508	Toguchin	Toguchin	Goguchin,Toguchin,Togutsjin,Toruchin,Тогучин	55.23528	84.38583	P	PPL	RU		53				21886		149	Asia/Novosibirsk	2012-01-17
+ 1489530	Tobol’sk	Tobol'sk	Tobol'sk,Tobolsk,Tobol’sk,Тобольск	58.19807	68.25457	P	PPL	RU		78				113800		90	Asia/Yekaterinburg	2012-08-04
+ 1489870	Tayshet	Tayshet	Taischet,Taishet,Tajset,Tajshet,Tajŝet,Tajšet,Tashieta,Tayshet,tai she te,taisheto,taisyeteu,Тайшет,Тајшет,タイシェト,泰舍特,타이셰트	55.9342	98.0044	P	PPL	RU		20				37766		314	Asia/Irkutsk	2012-01-17
+@@ -17995,7 +17995,7 @@
+ 1510350	Berdsk	Berdsk	Berdsk,Berdskas,Berdskoye,Bierdsk,Bordsk,Gorad Berdsk,beleucheukeu,bie er ci ke,brdsk,byrdsk,Бердск,Горад Бердск,بردسک,بيردسك,بیردسک,別爾茨克,베르츠크	54.7551	83.0967	P	PPL	RU		53				90250		139	Asia/Novosibirsk	2012-01-17
+ 1510450	Beloyarskiy	Beloyarskiy	Belojarskij,Beloyarskiy,EYK,Белоярский	63.71194	66.67222	P	PPL	RU		32				20087		23	Asia/Yekaterinburg	2013-04-12
+ 1510469	Belovo	Belovo	Belova,Belovas,Belovo,Belovo i Russland,Belowo,Bielowo,Biełowo,Gorad Bjalova,bellobo,bie luo wo,blwfw  rwsyh,bylwfw,bylwww,Белово,Бєлово,Горад Бялова,بلوفو، روسیه,بيلوفو,بیلووو,別洛沃,벨로보	54.4165	86.2976	P	PPL	RU		29				75764		206	Asia/Novokuznetsk	2012-01-17
+-1510853	Barnaul	Barnaul	BAX,Barnaoel,Barnaoul,Barnauel,Barnaul,Barnaul - Barnaul,Barnaul - Барнау́л,Barnaula,Barnaulas,Barnaulia,Barnauyl,Barnauł,Barnaúl,Barnaül,Gorad Barnaul,Mparnaoul,ba er nao er,baleunaul,barnal,barnaywl,barnwl,barunauru,Μπαρναούλ,Барнаул,Барнауыл,Горад Барнаул,Բարնաուլ,ברנאול,بارنائول,بارنال,بارنول,バルナウル,巴尔瑙尔,바르나울	53.36056	83.76361	P	PPLA	RU		04	1535931			599579		189	Asia/Omsk	2012-12-14
++1510853	Barnaul	Barnaul	BAX,Barnaoel,Barnaoul,Barnauel,Barnaul,Barnaul - Barnaul,Barnaul - Барнау́л,Barnaula,Barnaulas,Barnaulia,Barnauyl,Barnauł,Barnaúl,Barnaül,Gorad Barnaul,Mparnaoul,ba er nao er,baleunaul,barnal,barnaywl,barnwl,barunauru,Μπαρναούλ,Барнаул,Барнауыл,Горад Барнаул,Բարնաուլ,ברנאול,بارنائول,بارنال,بارنول,バルナウル,巴尔瑙尔,바르나울	53.36056	83.76361	P	PPLA	RU		04	1535931			599579		189	Asia/Barnaul	2012-12-14
+ 1510916	Barabinsk	Barabinsk	Barabinsk,Barabińsk,balabinseukeu,barabinsuku,Барабинск,バラビンスク,바라빈스크	55.35709	78.35697	P	PPL	RU		53				31508		121	Asia/Novosibirsk	2012-01-17
+ 1511309	Asino	Asino	Asino,ashino,asino,Асино,アシノ,아시노	56.99987	86.14393	P	PPL	RU		75				27070		109	Asia/Novosibirsk	2012-08-04
+ 1511330	Asbest	Asbest	Asbest,Asbest i Russland,Asbestas,Asbiest,Asmpest,Gorad Asbest,a si bie si te,asbst,asbyst,aseubeseuteu,asubesuto shi,Ασμπέστ,Асбест,Горад Асбест,אסבסט,آسبست,أسبيست,اسبیست,アスベスト市,阿斯别斯特,아스베스트	57.00993	61.45776	P	PPL	RU		71				74583		219	Asia/Yekaterinburg	2012-01-17
+@@ -18059,7 +18059,7 @@
+ 2023469	Irkutsk	Irkutsk	Ehrkhүү khot,Gorad Irkuck,IKT,Ircutia,Irkoetsk,Irkotsk,Irkoutsk,Irkuck,Irkutk,Irkuts'k,Irkutsc,Irkutsk,Irkutska,Irkutskaj,Irkutskas,Irkutszk,Irkuțk,Irkùck,ayrkwtsk,ileukucheukeu,irakutska,irukutsuku,xir khut skh,yi er ku ci ke,İrkutsk,Ιρκούτσκ,Іркутськ,Горад Іркуцк,Иркутск,Иркутскай,Иркуцк,Эрхүү,Эрхүү хот,Өrket,Өркет,אירקוטסק,אירקוצק,إيركوتسك,ارکٹسک,ایرکوتسک,इरकुत्स्क,อีร์คุตสค์,ირკუტსკი,イルクーツク,伊爾庫茨克,이르쿠츠크	52.29778	104.29639	P	PPLA	RU		20	2023464			586695		428	Asia/Irkutsk	2013-12-01
+ 2023782	Gusinoozyorsk	Gusinoozyorsk	Bestuzhev,Gusinoozerak,Gusinoozersk,Gusinoozjorsk,Gusinoozyorsk,Gusinoozërsk,Gusnooversk,Shakhty,Yelanovskiy,Гусиноозёрск	51.28333	106.5	P	PPL	RU		11				24083		548	Asia/Irkutsk	2014-04-26
+ 2025159	Dal’nerechensk	Dal'nerechensk	Dal'nerechensk,Dalneretsjensk,Dal’nerechensk,Iman,Дальнереченск	45.93149	133.73906	P	PPL	RU		59				28300		59	Asia/Vladivostok	2012-09-05
+-2025339	Chita	Chita	Chita,Chitá,HTA,Tchita,Tschita,Tsita,Tsjita,Tšita,chi ta,chita,Чита,チタ,赤塔	52.03171	113.50087	P	PPLA	RU		93				308500		668	Asia/Yakutsk	2015-03-10
++2025339	Chita	Chita	Chita,Chitá,HTA,Tchita,Tschita,Tsita,Tsjita,Tšita,chi ta,chita,Чита,チタ,赤塔	52.03171	113.50087	P	PPLA	RU		93				308500		668	Asia/Chita	2015-03-10
+ 2025527	Cheremkhovo	Cheremkhovo	Cheremkhovo,Tsjeremkhovo,Черемхово	53.15611	103.0675	P	PPL	RU		20				57395		573	Asia/Irkutsk	2012-01-17
+ 2026126	Borzya	Borzya	Bolzhia,Borzia,Borzja,Borzya,Борзя	50.38333	116.51667	P	PPL	RU		93				30421		687	Asia/Yakutsk	2012-01-17
+ 2026303	Bol’shoy Kamen’	Bol'shoy Kamen'	Bol'shoj Kamen',Bol'shoy Kamen',Bol’shoy Kamen’,Большой Камень	43.11283	132.354	P	PPL	RU		59				38100		45	Asia/Vladivostok	2012-10-06
+-- 
+1.8.3.1
+
